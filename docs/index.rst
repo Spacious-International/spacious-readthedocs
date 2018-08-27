@@ -10,6 +10,7 @@ Welcome to Spacious Docs's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   business_logic/spacious_website/input_data_validations
 
 
 Indices and tables
@@ -18,3 +19,12 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+
+To Document Writers
+===================
+
+| This doc mainly use RST syntax
+| So this `RST Cheatsheet <https://github.com/ralsina/rst-cheatsheet/blob/master/rst-cheatsheet.rst>`_ might be helpful
+|
+| Also some `example headings here <https://documentation-style-guide-sphinx.readthedocs.io/en/latest/style-guide.html#headings>`_
