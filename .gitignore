@@ -1,1 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
+
+# Locally built files
+docs/_build
