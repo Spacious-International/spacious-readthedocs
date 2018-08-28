@@ -21,10 +21,12 @@ Indices and tables
 * :ref:`search`
 
 
-To Document Writers
-===================
+Document Writer Resources
+=========================
 
 | This doc mainly use RST syntax
-| So this `RST Cheatsheet <https://github.com/ralsina/rst-cheatsheet/blob/master/rst-cheatsheet.rst>`_ might be helpful
-|
-| Also some `example headings here <https://documentation-style-guide-sphinx.readthedocs.io/en/latest/style-guide.html#headings>`_
+| So the following resources should be helpful
+
+- `Offcial RST Doc <http://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
+- `RST Cheatsheet <https://github.com/ralsina/rst-cheatsheet/blob/master/rst-cheatsheet.rst>`_
+- `Example Headings <https://documentation-style-guide-sphinx.readthedocs.io/en/latest/style-guide.html#headings>`_
