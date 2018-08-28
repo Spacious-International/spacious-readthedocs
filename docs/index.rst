@@ -10,7 +10,7 @@ Welcome to Spacious Docs's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   business_logic/spacious_website/input_data_validations
+   business_logic/spacious_website/data_validations
 
 
 Indices and tables
