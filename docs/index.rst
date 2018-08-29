@@ -13,14 +13,6 @@ Welcome to Spacious Docs's documentation!
    business_logic/spacious_website/data_validations
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
-
 Document Writer Resources
 =========================
 
@@ -30,3 +22,6 @@ Document Writer Resources
 - `Offcial RST Doc <http://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
 - `RST Cheatsheet <https://github.com/ralsina/rst-cheatsheet/blob/master/rst-cheatsheet.rst>`_
 - `Example Headings <https://documentation-style-guide-sphinx.readthedocs.io/en/latest/style-guide.html#headings>`_
+
+
+Really a beginner? Check :doc:`doc_writer_tutorial/index`
