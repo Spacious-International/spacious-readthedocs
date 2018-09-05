@@ -10,7 +10,9 @@ Welcome to Spacious Docs's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   business_logic/spacious_website/data_validations
+   business_logic/spacious_website/data_validations.rst
+   doc_writer_tutorial/index.rst
+
 
 
 Document Writer Resources
@@ -19,9 +21,10 @@ Document Writer Resources
 | This doc mainly use RST syntax
 | So the following resources should be helpful
 
-- `Offcial RST Doc <http://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
+- `Official RST Doc <http://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
 - `RST Cheatsheet <https://github.com/ralsina/rst-cheatsheet/blob/master/rst-cheatsheet.rst>`_
 - `Example Headings <https://documentation-style-guide-sphinx.readthedocs.io/en/latest/style-guide.html#headings>`_
 
 
 Really a beginner? Check :doc:`doc_writer_tutorial/index`
+
